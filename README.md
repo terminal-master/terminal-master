@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @terminal-master
+- 👋 Hi, I’m @abed awaisy
 - 👀 I’m interested in Programming/Ethical-Hacking
 - 🌱 I’m currently learning Information Systems
 - 💞️ I’m looking to collaborate on any interesting project
